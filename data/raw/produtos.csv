@@ -1,0 +1,21 @@
+produto_id,produto_nome,categoria,subcategoria,preco_unitario,custo_unitario
+P001,Arroz Branco 5kg,Arroz,Arroz,22.5,18.0
+P002,Arroz Integral 1kg,Arroz,Arroz,8.8,6.4
+P003,Feijão Carioca 1kg,Feijão,Feijão,7.9,5.7
+P004,Feijão Preto 1kg,Feijão,Feijão,8.3,6.0
+P005,Macarrão Espaguete 500g,Macarrão,Macarrão,4.2,2.9
+P006,Macarrão Parafuso 500g,Macarrão,Macarrão,4.4,3.1
+P007,Óleo de Soja 900ml,Óleo,Óleo,7.6,5.5
+P008,Óleo de Girassol 900ml,Óleo,Óleo,9.9,7.2
+P009,Açúcar Cristal 1kg,Açúcar,Açúcar,4.8,3.5
+P010,Açúcar Refinado 1kg,Açúcar,Açúcar,5.2,3.8
+P011,Café Torrado 500g,Café,Café,16.9,12.0
+P012,Café Premium 250g,Café,Café,14.6,10.5
+P013,Biscoito Cream Cracker,Biscoitos,Biscoitos,4.9,3.4
+P014,Biscoito Recheado Chocolate,Biscoitos,Biscoitos,3.8,2.6
+P015,Leite UHT Integral 1L,Lácteos,Lácteos,5.6,4.1
+P016,Leite Condensado 395g,Lácteos,Lácteos,6.8,5.0
+P017,Extrato de Tomate 340g,Molhos,Molhos,3.3,2.2
+P018,Molho de Tomate Tradicional,Molhos,Molhos,2.9,2.0
+P019,Milho Verde 170g,Enlatados,Enlatados,3.9,2.8
+P020,Ervilha 170g,Enlatados,Enlatados,4.1,2.9

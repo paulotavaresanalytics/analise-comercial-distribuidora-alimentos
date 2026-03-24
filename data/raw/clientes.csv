@@ -1,0 +1,181 @@
+cliente_id,cliente_nome,segmento,estado,regiao,data_cadastro,status_ativo
+C0001,Cliente 001 Alimentos Ltda,Atacarejo,RJ,Sudeste,2024-07-18,True
+C0002,Cliente 002 Alimentos Ltda,Mercearia,RS,Sul,2024-09-18,True
+C0003,Cliente 003 Alimentos Ltda,Distribuidor Regional,ES,Sudeste,2023-03-10,True
+C0004,Cliente 004 Alimentos Ltda,Restaurante,GO,Centro-Oeste,2024-07-09,True
+C0005,Cliente 005 Alimentos Ltda,Atacarejo,PE,Nordeste,2023-04-04,True
+C0006,Cliente 006 Alimentos Ltda,Distribuidor Regional,PE,Nordeste,2023-09-28,True
+C0007,Cliente 007 Alimentos Ltda,Restaurante,DF,Centro-Oeste,2024-04-15,True
+C0008,Cliente 008 Alimentos Ltda,Supermercado,PE,Nordeste,2023-11-20,True
+C0009,Cliente 009 Alimentos Ltda,Supermercado,RJ,Sudeste,2024-02-09,True
+C0010,Cliente 010 Alimentos Ltda,Mercearia,MT,Centro-Oeste,2024-08-27,True
+C0011,Cliente 011 Alimentos Ltda,Atacarejo,MG,Sudeste,2024-07-07,True
+C0012,Cliente 012 Alimentos Ltda,Restaurante,RJ,Sudeste,2024-12-09,True
+C0013,Cliente 013 Alimentos Ltda,Supermercado,AL,Nordeste,2024-07-22,True
+C0014,Cliente 014 Alimentos Ltda,Supermercado,SC,Sul,2023-12-07,True
+C0015,Cliente 015 Alimentos Ltda,Mercearia,PE,Nordeste,2023-04-23,True
+C0016,Cliente 016 Alimentos Ltda,Distribuidor Regional,PA,Norte,2024-06-27,False
+C0017,Cliente 017 Alimentos Ltda,Atacarejo,RS,Sul,2023-08-26,True
+C0018,Cliente 018 Alimentos Ltda,Supermercado,RJ,Sudeste,2023-12-09,True
+C0019,Cliente 019 Alimentos Ltda,Atacarejo,BA,Nordeste,2023-04-05,False
+C0020,Cliente 020 Alimentos Ltda,Mercearia,SC,Sul,2023-06-15,True
+C0021,Cliente 021 Alimentos Ltda,Restaurante,AM,Norte,2023-11-16,False
+C0022,Cliente 022 Alimentos Ltda,Supermercado,AL,Nordeste,2024-05-26,True
+C0023,Cliente 023 Alimentos Ltda,Restaurante,DF,Centro-Oeste,2024-08-30,True
+C0024,Cliente 024 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-10-10,True
+C0025,Cliente 025 Alimentos Ltda,Supermercado,ES,Sudeste,2024-05-13,True
+C0026,Cliente 026 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-05-26,True
+C0027,Cliente 027 Alimentos Ltda,Mercearia,DF,Centro-Oeste,2024-07-28,True
+C0028,Cliente 028 Alimentos Ltda,Restaurante,BA,Nordeste,2024-05-29,True
+C0029,Cliente 029 Alimentos Ltda,Mercearia,PE,Nordeste,2023-12-02,True
+C0030,Cliente 030 Alimentos Ltda,Supermercado,SP,Sudeste,2023-04-13,True
+C0031,Cliente 031 Alimentos Ltda,Atacarejo,BA,Nordeste,2024-05-02,True
+C0032,Cliente 032 Alimentos Ltda,Restaurante,MT,Centro-Oeste,2024-02-17,True
+C0033,Cliente 033 Alimentos Ltda,Mercearia,CE,Nordeste,2024-04-08,True
+C0034,Cliente 034 Alimentos Ltda,Supermercado,RJ,Sudeste,2024-02-13,True
+C0035,Cliente 035 Alimentos Ltda,Atacarejo,CE,Nordeste,2023-01-23,True
+C0036,Cliente 036 Alimentos Ltda,Atacarejo,AM,Norte,2023-06-06,True
+C0037,Cliente 037 Alimentos Ltda,Supermercado,AM,Norte,2024-09-14,True
+C0038,Cliente 038 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-02-12,True
+C0039,Cliente 039 Alimentos Ltda,Mercearia,PA,Norte,2023-08-03,True
+C0040,Cliente 040 Alimentos Ltda,Restaurante,MG,Sudeste,2024-02-11,True
+C0041,Cliente 041 Alimentos Ltda,Atacarejo,AM,Norte,2024-04-29,True
+C0042,Cliente 042 Alimentos Ltda,Supermercado,RS,Sul,2024-08-17,True
+C0043,Cliente 043 Alimentos Ltda,Supermercado,SC,Sul,2023-01-17,True
+C0044,Cliente 044 Alimentos Ltda,Atacarejo,DF,Centro-Oeste,2024-06-11,True
+C0045,Cliente 045 Alimentos Ltda,Atacarejo,GO,Centro-Oeste,2023-04-28,True
+C0046,Cliente 046 Alimentos Ltda,Mercearia,AM,Norte,2023-04-22,True
+C0047,Cliente 047 Alimentos Ltda,Atacarejo,BA,Nordeste,2023-11-22,True
+C0048,Cliente 048 Alimentos Ltda,Mercearia,ES,Sudeste,2023-08-09,True
+C0049,Cliente 049 Alimentos Ltda,Supermercado,CE,Nordeste,2023-09-22,True
+C0050,Cliente 050 Alimentos Ltda,Distribuidor Regional,SC,Sul,2023-03-28,True
+C0051,Cliente 051 Alimentos Ltda,Mercearia,SC,Sul,2024-10-25,True
+C0052,Cliente 052 Alimentos Ltda,Distribuidor Regional,BA,Nordeste,2023-07-14,False
+C0053,Cliente 053 Alimentos Ltda,Mercearia,PR,Sul,2024-07-22,False
+C0054,Cliente 054 Alimentos Ltda,Supermercado,DF,Centro-Oeste,2023-11-25,True
+C0055,Cliente 055 Alimentos Ltda,Distribuidor Regional,RJ,Sudeste,2023-03-12,True
+C0056,Cliente 056 Alimentos Ltda,Supermercado,MG,Sudeste,2023-11-29,True
+C0057,Cliente 057 Alimentos Ltda,Mercearia,GO,Centro-Oeste,2023-08-12,True
+C0058,Cliente 058 Alimentos Ltda,Restaurante,PE,Nordeste,2023-05-10,True
+C0059,Cliente 059 Alimentos Ltda,Mercearia,SP,Sudeste,2024-07-07,True
+C0060,Cliente 060 Alimentos Ltda,Mercearia,AL,Nordeste,2023-11-12,False
+C0061,Cliente 061 Alimentos Ltda,Mercearia,MG,Sudeste,2024-03-02,True
+C0062,Cliente 062 Alimentos Ltda,Atacarejo,AL,Nordeste,2023-03-03,False
+C0063,Cliente 063 Alimentos Ltda,Atacarejo,DF,Centro-Oeste,2023-01-31,True
+C0064,Cliente 064 Alimentos Ltda,Supermercado,ES,Sudeste,2023-08-29,True
+C0065,Cliente 065 Alimentos Ltda,Mercearia,AL,Nordeste,2023-03-17,True
+C0066,Cliente 066 Alimentos Ltda,Distribuidor Regional,DF,Centro-Oeste,2023-05-05,True
+C0067,Cliente 067 Alimentos Ltda,Supermercado,AM,Norte,2024-02-29,False
+C0068,Cliente 068 Alimentos Ltda,Supermercado,CE,Nordeste,2024-03-07,True
+C0069,Cliente 069 Alimentos Ltda,Atacarejo,MG,Sudeste,2024-11-30,True
+C0070,Cliente 070 Alimentos Ltda,Supermercado,BA,Nordeste,2024-07-25,True
+C0071,Cliente 071 Alimentos Ltda,Atacarejo,PR,Sul,2023-12-22,True
+C0072,Cliente 072 Alimentos Ltda,Mercearia,BA,Nordeste,2024-11-15,False
+C0073,Cliente 073 Alimentos Ltda,Supermercado,PE,Nordeste,2023-12-12,True
+C0074,Cliente 074 Alimentos Ltda,Atacarejo,AM,Norte,2023-08-31,True
+C0075,Cliente 075 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-11-17,True
+C0076,Cliente 076 Alimentos Ltda,Restaurante,SC,Sul,2024-08-26,True
+C0077,Cliente 077 Alimentos Ltda,Mercearia,PE,Nordeste,2023-04-13,True
+C0078,Cliente 078 Alimentos Ltda,Mercearia,SC,Sul,2023-03-21,False
+C0079,Cliente 079 Alimentos Ltda,Mercearia,RJ,Sudeste,2023-07-25,True
+C0080,Cliente 080 Alimentos Ltda,Restaurante,GO,Centro-Oeste,2024-06-14,True
+C0081,Cliente 081 Alimentos Ltda,Distribuidor Regional,SC,Sul,2023-03-20,True
+C0082,Cliente 082 Alimentos Ltda,Supermercado,AM,Norte,2023-06-18,True
+C0083,Cliente 083 Alimentos Ltda,Atacarejo,MG,Sudeste,2024-02-10,True
+C0084,Cliente 084 Alimentos Ltda,Restaurante,PR,Sul,2024-08-28,False
+C0085,Cliente 085 Alimentos Ltda,Distribuidor Regional,AM,Norte,2023-08-20,True
+C0086,Cliente 086 Alimentos Ltda,Atacarejo,AL,Nordeste,2023-08-01,False
+C0087,Cliente 087 Alimentos Ltda,Distribuidor Regional,PA,Norte,2023-07-06,False
+C0088,Cliente 088 Alimentos Ltda,Supermercado,MG,Sudeste,2023-05-01,False
+C0089,Cliente 089 Alimentos Ltda,Distribuidor Regional,PR,Sul,2023-11-14,True
+C0090,Cliente 090 Alimentos Ltda,Mercearia,MG,Sudeste,2024-10-12,True
+C0091,Cliente 091 Alimentos Ltda,Restaurante,MT,Centro-Oeste,2024-10-12,True
+C0092,Cliente 092 Alimentos Ltda,Supermercado,RJ,Sudeste,2024-01-14,True
+C0093,Cliente 093 Alimentos Ltda,Mercearia,SP,Sudeste,2024-07-17,False
+C0094,Cliente 094 Alimentos Ltda,Supermercado,RS,Sul,2023-09-30,True
+C0095,Cliente 095 Alimentos Ltda,Supermercado,GO,Centro-Oeste,2024-06-29,False
+C0096,Cliente 096 Alimentos Ltda,Supermercado,SP,Sudeste,2024-11-14,True
+C0097,Cliente 097 Alimentos Ltda,Restaurante,SP,Sudeste,2023-03-31,True
+C0098,Cliente 098 Alimentos Ltda,Supermercado,PA,Norte,2023-04-22,False
+C0099,Cliente 099 Alimentos Ltda,Restaurante,SC,Sul,2024-03-13,True
+C0100,Cliente 100 Alimentos Ltda,Supermercado,SP,Sudeste,2023-05-24,False
+C0101,Cliente 101 Alimentos Ltda,Distribuidor Regional,AM,Norte,2024-07-21,True
+C0102,Cliente 102 Alimentos Ltda,Supermercado,BA,Nordeste,2024-01-01,True
+C0103,Cliente 103 Alimentos Ltda,Supermercado,PA,Norte,2023-01-11,False
+C0104,Cliente 104 Alimentos Ltda,Mercearia,PR,Sul,2023-04-07,True
+C0105,Cliente 105 Alimentos Ltda,Atacarejo,AM,Norte,2023-03-30,True
+C0106,Cliente 106 Alimentos Ltda,Mercearia,PA,Norte,2024-05-21,True
+C0107,Cliente 107 Alimentos Ltda,Restaurante,RS,Sul,2023-05-26,False
+C0108,Cliente 108 Alimentos Ltda,Mercearia,SP,Sudeste,2024-06-06,True
+C0109,Cliente 109 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-04-06,True
+C0110,Cliente 110 Alimentos Ltda,Atacarejo,CE,Nordeste,2024-11-08,True
+C0111,Cliente 111 Alimentos Ltda,Atacarejo,AM,Norte,2023-08-08,True
+C0112,Cliente 112 Alimentos Ltda,Distribuidor Regional,PE,Nordeste,2024-04-28,True
+C0113,Cliente 113 Alimentos Ltda,Distribuidor Regional,PE,Nordeste,2023-07-29,False
+C0114,Cliente 114 Alimentos Ltda,Mercearia,BA,Nordeste,2023-01-19,False
+C0115,Cliente 115 Alimentos Ltda,Supermercado,MG,Sudeste,2024-04-07,True
+C0116,Cliente 116 Alimentos Ltda,Atacarejo,GO,Centro-Oeste,2023-04-13,True
+C0117,Cliente 117 Alimentos Ltda,Mercearia,SP,Sudeste,2024-12-06,True
+C0118,Cliente 118 Alimentos Ltda,Restaurante,MG,Sudeste,2024-11-12,True
+C0119,Cliente 119 Alimentos Ltda,Restaurante,RS,Sul,2023-12-08,True
+C0120,Cliente 120 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2023-01-14,True
+C0121,Cliente 121 Alimentos Ltda,Restaurante,PR,Sul,2024-08-28,True
+C0122,Cliente 122 Alimentos Ltda,Atacarejo,BA,Nordeste,2023-06-19,True
+C0123,Cliente 123 Alimentos Ltda,Restaurante,DF,Centro-Oeste,2024-03-18,True
+C0124,Cliente 124 Alimentos Ltda,Atacarejo,DF,Centro-Oeste,2024-03-16,False
+C0125,Cliente 125 Alimentos Ltda,Atacarejo,RJ,Sudeste,2023-10-01,False
+C0126,Cliente 126 Alimentos Ltda,Restaurante,RJ,Sudeste,2024-04-20,True
+C0127,Cliente 127 Alimentos Ltda,Supermercado,PR,Sul,2023-11-28,True
+C0128,Cliente 128 Alimentos Ltda,Mercearia,PR,Sul,2023-06-22,True
+C0129,Cliente 129 Alimentos Ltda,Supermercado,MT,Centro-Oeste,2024-08-19,True
+C0130,Cliente 130 Alimentos Ltda,Mercearia,PA,Norte,2023-02-18,True
+C0131,Cliente 131 Alimentos Ltda,Restaurante,SC,Sul,2023-04-17,True
+C0132,Cliente 132 Alimentos Ltda,Supermercado,SC,Sul,2023-08-15,True
+C0133,Cliente 133 Alimentos Ltda,Supermercado,PA,Norte,2024-11-03,True
+C0134,Cliente 134 Alimentos Ltda,Supermercado,MG,Sudeste,2023-07-27,False
+C0135,Cliente 135 Alimentos Ltda,Supermercado,BA,Nordeste,2023-03-26,True
+C0136,Cliente 136 Alimentos Ltda,Supermercado,GO,Centro-Oeste,2023-02-10,True
+C0137,Cliente 137 Alimentos Ltda,Mercearia,MT,Centro-Oeste,2023-02-08,False
+C0138,Cliente 138 Alimentos Ltda,Atacarejo,PE,Nordeste,2024-05-11,True
+C0139,Cliente 139 Alimentos Ltda,Atacarejo,MT,Centro-Oeste,2023-08-21,True
+C0140,Cliente 140 Alimentos Ltda,Restaurante,GO,Centro-Oeste,2024-09-30,False
+C0141,Cliente 141 Alimentos Ltda,Supermercado,PE,Nordeste,2023-02-01,True
+C0142,Cliente 142 Alimentos Ltda,Supermercado,PA,Norte,2023-06-22,True
+C0143,Cliente 143 Alimentos Ltda,Atacarejo,AL,Nordeste,2024-02-21,True
+C0144,Cliente 144 Alimentos Ltda,Atacarejo,PR,Sul,2023-02-05,True
+C0145,Cliente 145 Alimentos Ltda,Supermercado,PA,Norte,2024-01-18,True
+C0146,Cliente 146 Alimentos Ltda,Supermercado,RJ,Sudeste,2024-08-31,True
+C0147,Cliente 147 Alimentos Ltda,Supermercado,RS,Sul,2024-11-06,False
+C0148,Cliente 148 Alimentos Ltda,Distribuidor Regional,MT,Centro-Oeste,2024-09-07,True
+C0149,Cliente 149 Alimentos Ltda,Restaurante,ES,Sudeste,2024-12-16,True
+C0150,Cliente 150 Alimentos Ltda,Mercearia,CE,Nordeste,2024-07-23,True
+C0151,Cliente 151 Alimentos Ltda,Supermercado,CE,Nordeste,2024-07-22,False
+C0152,Cliente 152 Alimentos Ltda,Atacarejo,MT,Centro-Oeste,2024-01-27,True
+C0153,Cliente 153 Alimentos Ltda,Atacarejo,AM,Norte,2024-09-18,False
+C0154,Cliente 154 Alimentos Ltda,Mercearia,DF,Centro-Oeste,2023-10-09,True
+C0155,Cliente 155 Alimentos Ltda,Supermercado,ES,Sudeste,2023-07-14,True
+C0156,Cliente 156 Alimentos Ltda,Atacarejo,RS,Sul,2023-12-15,True
+C0157,Cliente 157 Alimentos Ltda,Atacarejo,CE,Nordeste,2023-06-19,True
+C0158,Cliente 158 Alimentos Ltda,Supermercado,PE,Nordeste,2023-09-25,True
+C0159,Cliente 159 Alimentos Ltda,Mercearia,RS,Sul,2023-10-05,False
+C0160,Cliente 160 Alimentos Ltda,Distribuidor Regional,ES,Sudeste,2023-08-05,True
+C0161,Cliente 161 Alimentos Ltda,Atacarejo,AL,Nordeste,2024-10-30,True
+C0162,Cliente 162 Alimentos Ltda,Atacarejo,DF,Centro-Oeste,2023-08-28,True
+C0163,Cliente 163 Alimentos Ltda,Mercearia,AM,Norte,2024-09-11,True
+C0164,Cliente 164 Alimentos Ltda,Atacarejo,ES,Sudeste,2024-08-10,True
+C0165,Cliente 165 Alimentos Ltda,Supermercado,DF,Centro-Oeste,2024-04-07,True
+C0166,Cliente 166 Alimentos Ltda,Supermercado,MG,Sudeste,2024-06-20,False
+C0167,Cliente 167 Alimentos Ltda,Restaurante,CE,Nordeste,2024-05-22,True
+C0168,Cliente 168 Alimentos Ltda,Mercearia,PA,Norte,2023-04-07,True
+C0169,Cliente 169 Alimentos Ltda,Mercearia,AL,Nordeste,2023-03-11,True
+C0170,Cliente 170 Alimentos Ltda,Distribuidor Regional,CE,Nordeste,2023-03-03,True
+C0171,Cliente 171 Alimentos Ltda,Distribuidor Regional,GO,Centro-Oeste,2023-04-11,True
+C0172,Cliente 172 Alimentos Ltda,Mercearia,MG,Sudeste,2024-08-07,False
+C0173,Cliente 173 Alimentos Ltda,Restaurante,BA,Nordeste,2024-07-25,True
+C0174,Cliente 174 Alimentos Ltda,Supermercado,PA,Norte,2024-11-21,True
+C0175,Cliente 175 Alimentos Ltda,Supermercado,GO,Centro-Oeste,2024-03-06,True
+C0176,Cliente 176 Alimentos Ltda,Supermercado,PE,Nordeste,2024-03-25,True
+C0177,Cliente 177 Alimentos Ltda,Mercearia,MG,Sudeste,2024-02-17,True
+C0178,Cliente 178 Alimentos Ltda,Atacarejo,BA,Nordeste,2023-12-07,True
+C0179,Cliente 179 Alimentos Ltda,Restaurante,GO,Centro-Oeste,2024-07-11,True
+C0180,Cliente 180 Alimentos Ltda,Mercearia,PE,Nordeste,2023-12-26,True
